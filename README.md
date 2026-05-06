@@ -4,6 +4,7 @@ These 5 files were written with AI assistance (Copilot, Cursor, Claude).
 They contain **11 real security vulnerabilities** across JavaScript, TypeScript, Python, Java, and Go.
 
 **CodeSlick finds them all in under 3 seconds.**
+
 <img width="1166" height="1448" alt="image" src="https://github.com/user-attachments/assets/23366162-a24e-41a1-9b72-40b29ce25946" />
 
 ---
